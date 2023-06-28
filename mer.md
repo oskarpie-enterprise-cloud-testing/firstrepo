@@ -15,4 +15,7 @@ end
 subgraph Current Monitoring
 id1(Collectd)--Metrics -->g(Graphite)--Data Source -->r
 end
-```	
+```
+
+```
+```
